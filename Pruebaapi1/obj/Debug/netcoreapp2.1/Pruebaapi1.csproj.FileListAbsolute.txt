@@ -1,0 +1,16 @@
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\Pruebaapi1.deps.json
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\Pruebaapi1.runtimeconfig.json
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\Pruebaapi1.runtimeconfig.dev.json
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\Pruebaapi1.dll
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\bin\Debug\netcoreapp2.1\Pruebaapi1.pdb
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.csprojAssemblyReference.cache
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.RazorAssemblyInfo.cache
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.RazorAssemblyInfo.cs
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.AssemblyInfoInputs.cache
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.AssemblyInfo.cs
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.dll
+C:\Users\Danilo_Toshiba\source\repos\Pruebaapi1\Pruebaapi1\obj\Debug\netcoreapp2.1\Pruebaapi1.pdb
